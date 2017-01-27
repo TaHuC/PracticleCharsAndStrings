@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/PracticleCharsAndStrings/PracticleCharsAndStrings/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/PracticleCharsAndStrings/PracticleCharsAndStrings/bin/Debug/PracticleCharsAndStrings.exe.mdb
+/Users/TaHuC/Projects/PracticleCharsAndStrings/PracticleCharsAndStrings/bin/Debug/PracticleCharsAndStrings.exe
+/Users/TaHuC/Projects/PracticleCharsAndStrings/PracticleCharsAndStrings/obj/x86/Debug/PracticleCharsAndStrings.exe
+/Users/TaHuC/Projects/PracticleCharsAndStrings/PracticleCharsAndStrings/obj/x86/Debug/PracticleCharsAndStrings.exe.mdb
